@@ -20,7 +20,7 @@ export default function Footer() {
       </ul>
       <p>
         © 2021 Lion Patrocinio Cunha Costa |{" "}
-        <a className="border-b" href="">
+        <a className="border-b" href="https://github.com/liondexx/liondex-web-site">
           Source Code
         </a>
       </p>
