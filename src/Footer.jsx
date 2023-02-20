@@ -6,17 +6,16 @@ export default function Footer() {
           <a href="/">Home</a>{" "}
         </li>
         <li className="border-b mr-3 mb-2">
-          <a href="/blog">Blog</a>
-        </li>
-        <li className="border-b mr-3 mb-2">
           <a href="mailto:lionlpcc@gmail.com">Say Hi</a>
         </li>
         <li className="border-b mr-3 mb-2">
-          <a href="">Github</a>
+          <a href="https://github.com/liondexx">Github</a>
         </li>
 
         <li className="border-b mr-3 mb-2">
-          <a href="">Linkedin</a>
+          <a href="https://www.linkedin.com/in/lion-patrocino-96b808229/">
+            Linkedin
+          </a>
         </li>
       </ul>
       <p>
